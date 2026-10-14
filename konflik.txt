@@ -1,3 +1,3 @@
 baris 1: pembukaan
-baris 2: di ubah pada branch Utama 
+baris 2: gabungkan dari brunch dan revisi-judul
 baris 3: penutup
